@@ -5,8 +5,6 @@
 
 .header {
   text-align: right;
-  
-  
 }
 
 .topnav {
@@ -21,9 +19,6 @@
 	padding-top:10px;
 	height:30px;
 }
-
-
-
 
   .topnav1 {
   overflow: hidden;
@@ -132,8 +127,7 @@ text-align:left;
 border-color:white;
 
 }
-	
-  
+
 .footer {
   background-color:rgb(237, 238, 240);
   text-align: center;
